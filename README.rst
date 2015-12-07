@@ -1,6 +1,6 @@
 alpine-rabbitmq
 ===============
-RabbitMQ container with a small disk footprint
+RabbitMQ image with a small disk footprint
 
 Enabled plugins
 ---------------
