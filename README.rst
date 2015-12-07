@@ -5,18 +5,18 @@ RabbitMQ image with a small disk footprint
 Enabled plugins
 ---------------
 
- - Consistent Hash Exchange
- - Delayed Message Exchange
- - Federation
- - Federation Management
- - Management
- - Management Visualiser
- - MQTT
- - Shovel
- - Shovel Management
- - Stomp
- - Top
- - WebStomp
+- Consistent Hash Exchange
+- Delayed Message Exchange
+- Federation
+- Federation Management
+- Management
+- Management Visualiser
+- MQTT
+- Shovel
+- Shovel Management
+- Stomp
+- Top
+- WebStomp
 
 Example Usage
 -------------
