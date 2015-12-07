@@ -2,6 +2,8 @@ alpine-rabbitmq
 ===============
 RabbitMQ image with a small disk footprint
 
+|Layers| |Stars| |Pulls|
+
 Enabled plugins
 ---------------
 
